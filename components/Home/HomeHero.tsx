@@ -9,7 +9,7 @@ const HomeHero = (props: Props) => {
 
    
       return (
-        <div className='flex flex-col items-center mx-auto'>
+        <div className='flex flex-col w-full h-full items-center mx-auto'>
           <video
             autoPlay
             muted
